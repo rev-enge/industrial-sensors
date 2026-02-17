@@ -4,4 +4,4 @@ Reverse engineered (parts) of the industrial sensors such as EM and MASS flow me
 
 # Table of contents
 
-* Krohne/IFC100 => [Krohne IFC 100 signal converter for EM flow meter](krohne/ifc100/readme.md)
+* Krohne/IFC100 (rev 2) => [Krohne IFC 100 signal converter for EM flow meter](krohne/ifc100-r2/readme.md)
